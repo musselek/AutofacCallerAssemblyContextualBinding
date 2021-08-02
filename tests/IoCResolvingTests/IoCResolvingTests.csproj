@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\scr\AutofacCallerAssemblyContextualBinding\AutofacCallerAssemblyContextualBinding.csproj" />
-    <ProjectReference Include="..\TestCommonData\TestCommonData.csproj" />
     <ProjectReference Include="..\TestModuleA\TestModuleA.csproj" />
     <ProjectReference Include="..\TestModuleB\TestModuleB.csproj" />
     <ProjectReference Include="..\TestModuleC\TestModuleC.csproj" />
