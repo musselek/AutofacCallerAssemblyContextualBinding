@@ -9,7 +9,7 @@ Let's imagine the project which has three plugins
 * PluginB
     * IBehavior -> PluginBBehavior 
 * PluginC
-and common part
+   * does not have any dedicated implementation
 * Common
     * IBehavior -> CommonBehavior
 
